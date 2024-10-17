@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Javascript and front-end development
 - 📫 How to reach me erickay.dev@gmail.com
-
+##
 
 [![An image of @yakedev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yakedev)](https://holopin.io/@yakedev)
 
