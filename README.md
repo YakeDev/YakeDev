@@ -10,8 +10,21 @@
 #
 [![trophy](https://github-profile-trophy.vercel.app/?username=YakeDev)](https://github.com/YakeDev/github-profile-trophy)
 
-#
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YakeDev&show_icons=true)
+</br>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=YakeDev&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YakeDev&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+</br>
+
+
+
+
+
 <!---
 YakeDev/YakeDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
