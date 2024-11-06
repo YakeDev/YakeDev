@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YakeDev
 - 👀 I’m interested in full-stack javascript developpment
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Javascript and front-end development
 - 📫 How to reach me erickay.dev@gmail.com
 #
