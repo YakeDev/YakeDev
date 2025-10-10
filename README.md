@@ -1,4 +1,4 @@
-# 👋 Salut, je suis YakeDev
+# 👋 Salut, je suis Erickay
 
 ## 🇫🇷 À propos de moi
 Je suis un développeur JavaScript passionné, animé par la curiosité et l’envie constante d’apprendre.  
