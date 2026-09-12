@@ -20,8 +20,6 @@ My journey started with web development and UI/UX, and I'm currently going deepe
 - 🔐 **Cybersecurity** — security fundamentals, OSINT and ethical hacking
 - 🤝 **Open Source** — improving my collaboration and GitHub workflow
 
----
-
 ## 🛠️ Technologies & Tools
 
 ### Development
