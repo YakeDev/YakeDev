@@ -1,5 +1,4 @@
 # Hi, I'm Eric 👋
-# Hi, I'm Eric 👋
 
 ### Software Developer | Learning C#/.NET, React & Node.js | Cybersecurity Enthusiast
 
