@@ -150,12 +150,6 @@ Every project I contribute to is an opportunity to improve, experiment and learn
 
 ---
 
-## 🏆 GitHub Trophies
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YakeDev&column=4&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ## 📫 Contact
 
 - GitHub: [@YakeDev](https://github.com/YakeDev)
