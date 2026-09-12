@@ -1,35 +1,38 @@
-Hi, I'm Eric 👋
+# Hi, I'm Eric 👋
 
-Software Developer | C# • React • Node.js | Cybersecurity Enthusiast
+### Software Developer | C# • React • Node.js | Cybersecurity Enthusiast
 
-I'm a developer from DR Congo 🇨🇩 with a background in design, digital communication and web development.
+I'm a developer from **DR Congo 🇨🇩** with a background in design, digital communication, UI/UX and web development.
 
-I enjoy building practical applications, understanding how software works under the hood, and continuously improving my skills in software engineering and cybersecurity.
+I enjoy building practical applications, understanding how software works under the hood, and continuously improving my skills in **software engineering and cybersecurity**.
 
-My journey started with web development and UI/UX, and I'm currently going deeper into C#/.NET, React, Node.js, Linux, networking and cybersecurity.
+My journey started with web development and UI/UX, and I'm currently going deeper into **C#/.NET, React, Node.js, Linux, networking and cybersecurity**.
+
+---
+
+## 🚀 What I'm Currently Learning
+
+- 🔷 **C# & .NET** — strengthening my software engineering foundations
+- ⚛️ **React** — building modern and interactive user interfaces
+- 🟢 **Node.js** — backend development and APIs
+- 🐧 **Linux & Bash** — system administration and automation fundamentals
+- 🔐 **Cybersecurity** — networking, ethical hacking, OSINT and security fundamentals
+- 🌐 **Open Source** — contributing to projects and improving collaborative development skills
 
 ---
 
-🚀 What I'm currently learning
-
-- 🔷 C# & .NET — strengthening my software engineering foundations
-- ⚛️ React — building modern and interactive user interfaces
-- 🟢 Node.js — backend development and APIs
-- 🐧 Linux & Bash — system administration and automation fundamentals
-- 🔐 Cybersecurity — networking, ethical hacking, OSINT and security fundamentals
-- 🌐 Open Source — contributing to projects and improving collaborative development skills
-
----
 ## 🛠️ Technologies & Tools
 
 ### Development
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 ### Tools & Platforms
 
@@ -38,6 +41,14 @@ My journey started with web development and UI/UX, and I'm currently going deepe
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
+
+### Design
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 
 ### Currently Exploring
 
@@ -47,61 +58,59 @@ My journey started with web development and UI/UX, and I'm currently going deepe
 
 ---
 
-🔨 Projects
+## 🔨 Projects
 
-Here are some projects I've been working on:
-
-📊 KADI
+### 📊 KADI
 
 A project focused on helping small businesses manage invoicing and business operations.
 
-🧾 Open Facture
+### 🧾 Open Facture
 
 A lightweight invoicing application designed around practical business needs.
 
-✅ TaskZen
+### ✅ TaskZen
 
 A productivity and task management project.
 
-☕ BuyMeACoffee Africa
+### ☕ BuyMeACoffee Africa
 
 An open-source project exploring a creator-support platform adapted to the African ecosystem.
 
-📚 Lisbook
+### 📚 Lisbook
 
 A collaborative project where I worked on web interfaces, application features and improvements.
 
 ---
 
-🔐 Cybersecurity Journey
+## 🔐 Cybersecurity Journey
 
-I'm also building my foundations in cybersecurity.
+I'm building strong foundations in cybersecurity through hands-on learning and controlled lab environments.
 
 Currently exploring:
 
-Networking
-Linux
-Bash scripting
-Web security
-OSINT
-Ethical hacking
-Security labs
+- Networking
+- Linux
+- Bash scripting
+- Web security
+- OSINT
+- Ethical hacking
+- Security labs
 
-I mainly learn through hands-on labs and controlled environments, because security is much easier to understand once you stop treating terminals like mysterious black rectangles.
+I enjoy understanding not only how systems work, but also **how they fail, how they can be tested and how they can be secured**.
 
 ---
 
-🌱 My current goal
+## 🌱 My Current Goal
 
-I'm working toward becoming a stronger software engineer with solid knowledge of how applications, operating systems and networks work.
+I'm working toward becoming a stronger **software engineer** with solid knowledge of how applications, operating systems and networks work.
 
 My focus is not just learning frameworks, but understanding:
 
-«how software is designed, built, tested, secured and maintained.»
+> **How software is designed, built, tested, secured and maintained.**
 
 ---
 
-🤝 Open Source
+## 🤝 Open Source
 
 I enjoy collaborating on open-source projects and learning from other developers.
 
@@ -111,87 +120,47 @@ I'm especially interested in contributing to projects involving:
 - Developer tools
 - C# / .NET
 - JavaScript / TypeScript
+- React
+- Node.js
 - Linux
 - Cybersecurity
 - Open-source tools
 
----
-
-📈 GitHub Stats
-
-"Eric's GitHub stats" (https://github-readme-stats.vercel.app/api?username=YakeDev&show_icons=true&hide_border=true)
-
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=YakeDev&layout=compact&hide_border=true)
+Every project I contribute to is an opportunity to improve, experiment and learn from other developers.
 
 ---
 
-📫 Find me on GitHub
+## 🏅 Holopin Badges
 
-"@YakeDev" (https://github.com/YakeDev)
-
----
-
-«Build. Break. Understand. Improve.»
-I’m interested in **everything JavaScript**, from front-end to back-end, and I’m working hard to become a **skilled, creative full-stack developer**.  
-Every project I join is an opportunity to grow, experiment, and contribute to something exciting.
-
-> 💬 Looking for a motivated and curious collaborator? Let’s build something great together!
+[![Holopin Badges](https://holopin.me/yakedev)](https://holopin.io/@yakedev)
 
 ---
 
-📚 Currently learning **React** and modern web development.  
-🤝 Open to collaborate on **JavaScript** and **front-end** projects.  
-📫 Reach me at: **erickay.dev@gmail.com**
+## 📊 GitHub Statistics
 
----
-
-[![An image of @yakedev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yakedev)](https://holopin.io/@yakedev)
-
----
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=YakeDev)](https://github.com/YakeDev/github-profile-trophy)
-
-</br>
-
-# 📊 My GitHub Statistics
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=YakeDev&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YakeDev&layout=donut-vertical&langs_count=8&card_width=200" />
+<a href="https://github.com/YakeDev">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YakeDev&show_icons=true&hide_border=true" />
 </a>
 
-</br>
-
-##
+<a href="https://github.com/YakeDev">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YakeDev&layout=compact&hide_border=true&langs_count=8" />
+</a>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YakeDev&theme=dark&hide_border=true)
 
 ---
 
-# 🧠 Skills and Tools
+## 🏆 GitHub Trophies
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-![Dribbble](https://img.shields.io/badge/-Dribbble-EA4C89?style=flat-square&logo=dribbble&logoColor=white)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YakeDev&column=4&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-<!---
-YakeDev/YakeDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📫 Contact
+
+- GitHub: [@YakeDev](https://github.com/YakeDev)
+- Email: **erickay.dev@gmail.com**
+
+---
+
+> **Build. Break. Understand. Improve.**
