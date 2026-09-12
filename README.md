@@ -1,23 +1,25 @@
 # Hi, I'm Eric 👋
+# Hi, I'm Eric 👋
 
-### Software Developer | C# • React • Node.js | Cybersecurity Enthusiast
+### Software Developer | Learning C#/.NET, React & Node.js | Cybersecurity Enthusiast
 
-I'm a developer from **DR Congo 🇨🇩** with a background in design, digital communication, UI/UX and web development.
+I'm a developer from **DR Congo 🇨🇩** with a background in design, digital communication and web development.
 
-I enjoy building practical applications, understanding how software works under the hood, and continuously improving my skills in **software engineering and cybersecurity**.
+I have experience building web projects and working with Git and GitHub, and I'm currently strengthening my programming foundations while learning **C#/.NET, React and Node.js**.
 
+I'm also exploring **Linux, networking and cybersecurity**, with a strong interest in understanding how software and systems work under the hood.
 My journey started with web development and UI/UX, and I'm currently going deeper into **C#/.NET, React, Node.js, Linux, networking and cybersecurity**.
-
----
 
 ## 🚀 What I'm Currently Learning
 
-- 🔷 **C# & .NET** — strengthening my software engineering foundations
-- ⚛️ **React** — building modern and interactive user interfaces
-- 🟢 **Node.js** — backend development and APIs
-- 🐧 **Linux & Bash** — system administration and automation fundamentals
-- 🔐 **Cybersecurity** — networking, ethical hacking, OSINT and security fundamentals
-- 🌐 **Open Source** — contributing to projects and improving collaborative development skills
+- 🔷 **C# & .NET** — programming and software development fundamentals
+- 🟨 **JavaScript** — strengthening my core JavaScript knowledge
+- ⚛️ **React** — learning modern front-end development
+- 🟢 **Node.js** — learning backend development and APIs
+- 🐧 **Linux & Bash** — system and command-line fundamentals
+- 🌐 **Networking** — understanding how systems communicate
+- 🔐 **Cybersecurity** — security fundamentals, OSINT and ethical hacking
+- 🤝 **Open Source** — improving my collaboration and GitHub workflow
 
 ---
 
